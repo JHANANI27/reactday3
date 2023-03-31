@@ -1,0 +1,44 @@
+.sub-menu
+{
+    padding: 10px ;
+    display: flex;
+    width: 90vw;
+    box-shadow: 5px 5px 5px 8px rgba(244, 236, 236, 0.464);
+    border-radius: 10px;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+.sub-menu h2{
+    padding: 10px ;
+  font-size: 1.5em;
+}
+.sub-menu h3{
+    margin-left: 10%;
+    padding: 12px ;
+  font-size: 2.6em;
+  color:#e9e4e0;
+}
+.sub-menu p{
+    margin-left: 10%;
+    padding: 20px ;
+    font-size: 2em;
+    color: rgb(36, 37, 39);
+  }
+.sub-menu img{
+    width: 4vw;
+    height: 10vh;
+}
+.sub-menu a{
+    margin-left: 10%;
+    padding: 19px ;
+  font-size: 2em;
+  text-decoration: none;
+  color: rgb(239, 231, 231);
+  border-radius: 40px;
+  border: 1px solid #e5e3e2;
+}
+.sub-menu a:hover{
+    color: rgb(43, 39, 39);
+    background: #e4e1dd;
+    transition: 0.5s;
+}

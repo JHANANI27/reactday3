@@ -1,0 +1,15 @@
+#menu
+{
+    width: 100%;
+    height: 100vh;
+   background-image: url(https://img.freepik.com/premium-photo/cup-coffee-coffee-beans-table-dark-background_175390-330.jpg); 
+background-size: cover;
+color: aliceblue;
+}
+
+#menu h1{
+    font-size: 2.7em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}

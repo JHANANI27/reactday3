@@ -1,0 +1,79 @@
+.aboutdiv
+{
+    width: 100%;
+    min-height: 100vh;
+    background-image:url(https://i.pinimg.com/originals/63/bc/4c/63bc4c8fc2d139f5232736b5c9e281d5.jpg);
+    background-size: cover;
+}
+.about-div
+{
+    display: flex;
+   
+    
+}
+.top
+{
+    padding: 20px;
+  border-radius: 20px;
+    box-shadow:5px 5px 5px 8px rgba(230, 225, 225, 0.346);
+    margin-left:7%;
+    margin-top: 5%;
+    width: 30vw;
+    height: 35vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+.top h1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
+.top i{
+    font-size: 1em;
+  color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.top1
+{
+    padding: 20px;
+  border-radius: 20px;
+    box-shadow:5px 5px 5px 8px rgba(248, 242, 242, 0.346);
+    margin-left:7%;
+    margin-top: 5%;
+    width: 20vw;
+    height: 30vh;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.top1 img{
+    width: 5vw;
+    color: aliceblue;
+}
+.top2
+{
+    padding: 20px;
+  border-radius: 20px;
+    box-shadow:5px 5px 5px 8px rgba(251, 245, 245, 0.346);
+    margin-left:5%;
+    margin-top: 5%;
+    width: 20vw;
+    height: 30vh;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.top2 img{
+    width: 5vw;
+}
+.bottom
+{
+    font-size: larger   ;
+    width: 70vw;
+    margin-left: 20%;
+    margin-top: 5%;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bottom img{
+    width: 3vw;
+}
